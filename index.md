@@ -1,6 +1,6 @@
 #Github Pages Lab
 **Karthik Vetrivelan**
->CSE 110
+> CSE 110
 ```
 git status
 
