@@ -1,5 +1,6 @@
-#Github Pages Lab
+![This is an image](Picture.jpeg)
 **Karthik Vetrivelan**
+
 > CSE 110
 ```
 git status
