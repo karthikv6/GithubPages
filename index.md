@@ -7,7 +7,7 @@ git status
 ```
 This is my [LinkedIn](https://www.linkedin.com/in/karthikvetrivelan/).
 
-[index.md]](README.md)
+[[index.md]](README.md)
 
 My favorite languages are
 - C#
