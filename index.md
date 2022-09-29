@@ -1,7 +1,9 @@
-![This is an image](Picture.jpeg)
+![image](Picture.jpeg)
+
 **Karthik Vetrivelan**
 
 > CSE 110
+
 ```
 git status
 
